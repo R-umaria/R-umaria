@@ -1,6 +1,6 @@
 ### Hi there, I'm Rishi Umaria! 👋
 
-🚀 **Aspiring Software Engineer | IoT & AI Enthusiast | Game & Embedded Systems Developer**  
+🚀 **Aspiring Software Developer | IoT & AI Enthusiast | Game & Embedded Systems Developer**  
 
 I'm a **Computer Science student at Conestoga College** with a passion for software development, AI, and embedded systems. My experience spans across **full-stack development, IoT, AI/ML, game development, and competitive programming.**  
 
