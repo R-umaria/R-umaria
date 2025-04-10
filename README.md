@@ -19,6 +19,8 @@ I'm a **Computer Science student at Conestoga College** with a passion for softw
 - **[FarmRay](https://github.com/R-umaria/FarmRay)** - AI-powered weed detection system (Top 6 at DeltaHacks XI)
 
 ### Achievements
+- **Hackathon Winner - CtrlHackDel 2024**
+- **Top Finalists - DeltaHacks 2025**
 - **Most Innovative Project Award** (Local Competition)
 - **International Asteroid Search Campaign** - 3 provisional asteroid discoveries with NASA PAN-STARRS
 - **1st place at School Science Fair** - Multi-axis sun tracker project (Arduino)
