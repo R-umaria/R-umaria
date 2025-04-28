@@ -31,7 +31,6 @@ I'm a **Computer Science student at Conestoga College** with a passion for softw
 - **GitHub:** [github.com/R-umaria](https://github.com/R-umaria)
 - **Email:** rishiumaria24@gmail.com
 
-{*/ ![Leetcode Stats](https://leetcard.jacoblin.cool/r-umaria)/*}
 
 ![Profile Views](https://komarev.com/ghpvc/?username=R-umaria&color=blue&style=flat)
 
