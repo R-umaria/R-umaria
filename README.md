@@ -19,7 +19,7 @@ Waterloo, ON, Canada
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-umaria&layout=compact&theme=default" alt="Top Languages"/>    
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-umaria&theme=default" alt="GitHub Streak"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-umaria&theme=default" width="420" alt="GitHub Streak"/>  
 </p>  
 
 ---
