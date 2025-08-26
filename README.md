@@ -10,7 +10,7 @@ Waterloo, ON, Canada
 - Passionate about building impactful software + hardware systems  
 - Experienced in AI/ML, automation, and computer vision  
 - Currently developing **Desktop Automation (OCR + local LLMs)** and **YODA robo-buddy**  
-- Hackathon participant and multi-time winner (NASA Space Apps, HackThe6ix, DeltaHacks, etc.)  
+- Been hacker for **10x Hackathons** and **multi-time winner** (NASA Space Apps, DeltaHacks, CtrlHackDel, etc.)  
 - Strong foundation in **C, C++, Python, and JavaScript** across academic and personal projects  
 
 ---
@@ -31,30 +31,12 @@ Waterloo, ON, Canada
 
 ---
 
-## Featured Projects  
-- **[DriveWise](https://github.com/R-umaria/DriveWise)** – Driving behavior analytics app | *Flutter, C++, SQLite*  
-- **[FarmRay](https://github.com/R-umaria/FarmRay)** – AI weed detection + Raspberry Pi laser turret (**Top 6 @ DeltaHacks XI**) | *Python, OpenCV, Raspberry Pi*  
-- **[spotSpot](https://github.com/R-umaria/spotSpot)** – Acne detection with CNNs (**3rd @ Ctrl+Hack+Del**) | *PyTorch, OpenCV, Streamlit*  
-- **[Float n’ Pose](https://github.com/R-umaria/Float-n-Pose)** – Astronaut fitness game (**2nd @ NASA Space Apps – Region**) | *Python, OpenCV, MediaPipe*  
-- **[Desktop Automation](https://github.com/R-umaria/Desktop-Automation)** – AI-powered local automation | *Python, OCR, LLMs*  
-
----
-
 ## GitHub Insights  
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-umaria&layout=compact&theme=default" alt="Top Languages"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-umaria&theme=default" alt="GitHub Streak"/>  
-</p>  
-
----
-
-## Hackathon Highlights  
-- Most Innovative Project – Local Competition  
-- 2nd Place – NASA Space Apps (Regional)  
-- 3rd Place – Ctrl+Hack+Del  
-- Top 6 – DeltaHacks XI  
-- Accepted Hacker – Hack The North 2025  
+</p>
 
 ---
 
