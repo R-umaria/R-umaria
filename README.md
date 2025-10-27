@@ -1,7 +1,7 @@
 # Rishi Umaria  
 
-**Computer Science (Honours) @ Conestoga College**  
-AI/ML | Robotics | Embedded Systems | Full-Stack Development  
+**Computer Science (Honours - Cyber Security) @ Conestoga College**  
+Cyber Security | AI/ML | Robotics | Full-Stack Development  
 Waterloo, ON, Canada  
 
 ---
