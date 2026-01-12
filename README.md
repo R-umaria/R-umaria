@@ -10,7 +10,7 @@ Waterloo, ON, Canada
 - Passionate about building impactful software + hardware systems  
 - Experienced in AI/ML, automation, and computer vision  
 - Currently developing **Desktop Automation (OCR + local LLMs)** and **YODA robo-buddy**  
-- Been hacker for **10x Hackathons** and **multi-time winner** (NASA Space Apps, DeltaHacks, CtrlHackDel, etc.)  
+- Been hacker for **13x Hackathons** and **multi-time winner** (NASA Space Apps, DeltaHacks, CtrlHackDel, etc.)  
 - Strong foundation in **C, C++, Python, and JavaScript** across academic and personal projects  
 
 ---
