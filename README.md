@@ -11,16 +11,7 @@ Waterloo, ON, Canada
 - Experienced in AI/ML, automation, and computer vision  
 - Currently developing **Desktop Automation (OCR + local LLMs)** and **YODA robo-buddy**  
 - Been hacker for **13x Hackathons** and **multi-time winner** (NASA Space Apps, DeltaHacks, CtrlHackDel, etc.)  
-- Strong foundation in **C, C++, Python, and JavaScript** across academic and personal projects  
-
----
-
-## GitHub Insights  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-umaria&layout=compact&theme=default" alt="Top Languages"/>    
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-umaria&theme=default" width="420" alt="GitHub Streak"/>  
-</p>  
+- Strong foundation in **C, C++, Python, and JavaScript** across academic and personal projects   
 
 ---
 
